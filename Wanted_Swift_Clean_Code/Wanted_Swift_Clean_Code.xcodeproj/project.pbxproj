@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DA6F3EA72A0005F100283A7C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6F3EA62A0005F100283A7C /* main.swift */; };
+		DA8761952A00367E00F155DC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8761942A00367E00F155DC /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		DA6F3EA12A0005F100283A7C /* CopyFiles */ = {
+		DA87618F2A00367E00F155DC /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		DA6F3EA32A0005F100283A7C /* Wnated_project_iOS_clean_code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Wnated_project_iOS_clean_code; sourceTree = BUILT_PRODUCTS_DIR; };
-		DA6F3EA62A0005F100283A7C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DA8761912A00367E00F155DC /* Wanted_Swift_Clean_Code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Wanted_Swift_Clean_Code; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA8761942A00367E00F155DC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DA6F3EA02A0005F100283A7C /* Frameworks */ = {
+		DA87618E2A00367E00F155DC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,66 +38,66 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DA6F3E9A2A0005F100283A7C = {
+		DA8761882A00367E00F155DC = {
 			isa = PBXGroup;
 			children = (
-				DA6F3EA52A0005F100283A7C /* Wnated_project_iOS_clean_code */,
-				DA6F3EA42A0005F100283A7C /* Products */,
+				DA8761932A00367E00F155DC /* Wanted_Swift_Clean_Code */,
+				DA8761922A00367E00F155DC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DA6F3EA42A0005F100283A7C /* Products */ = {
+		DA8761922A00367E00F155DC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DA6F3EA32A0005F100283A7C /* Wnated_project_iOS_clean_code */,
+				DA8761912A00367E00F155DC /* Wanted_Swift_Clean_Code */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DA6F3EA52A0005F100283A7C /* Wnated_project_iOS_clean_code */ = {
+		DA8761932A00367E00F155DC /* Wanted_Swift_Clean_Code */ = {
 			isa = PBXGroup;
 			children = (
-				DA6F3EA62A0005F100283A7C /* main.swift */,
+				DA8761942A00367E00F155DC /* main.swift */,
 			);
-			path = Wnated_project_iOS_clean_code;
+			path = Wanted_Swift_Clean_Code;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DA6F3EA22A0005F100283A7C /* Wnated_project_iOS_clean_code */ = {
+		DA8761902A00367E00F155DC /* Wanted_Swift_Clean_Code */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DA6F3EAA2A0005F100283A7C /* Build configuration list for PBXNativeTarget "Wnated_project_iOS_clean_code" */;
+			buildConfigurationList = DA8761982A00367E00F155DC /* Build configuration list for PBXNativeTarget "Wanted_Swift_Clean_Code" */;
 			buildPhases = (
-				DA6F3E9F2A0005F100283A7C /* Sources */,
-				DA6F3EA02A0005F100283A7C /* Frameworks */,
-				DA6F3EA12A0005F100283A7C /* CopyFiles */,
+				DA87618D2A00367E00F155DC /* Sources */,
+				DA87618E2A00367E00F155DC /* Frameworks */,
+				DA87618F2A00367E00F155DC /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Wnated_project_iOS_clean_code;
-			productName = Wnated_project_iOS_clean_code;
-			productReference = DA6F3EA32A0005F100283A7C /* Wnated_project_iOS_clean_code */;
+			name = Wanted_Swift_Clean_Code;
+			productName = Wanted_Swift_Clean_Code;
+			productReference = DA8761912A00367E00F155DC /* Wanted_Swift_Clean_Code */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DA6F3E9B2A0005F100283A7C /* Project object */ = {
+		DA8761892A00367E00F155DC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					DA6F3EA22A0005F100283A7C = {
+					DA8761902A00367E00F155DC = {
 						CreatedOnToolsVersion = 14.2;
 					};
 				};
 			};
-			buildConfigurationList = DA6F3E9E2A0005F100283A7C /* Build configuration list for PBXProject "Wnated_project_iOS_clean_code" */;
+			buildConfigurationList = DA87618C2A00367E00F155DC /* Build configuration list for PBXProject "Wanted_Swift_Clean_Code" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -105,29 +105,29 @@
 				en,
 				Base,
 			);
-			mainGroup = DA6F3E9A2A0005F100283A7C;
-			productRefGroup = DA6F3EA42A0005F100283A7C /* Products */;
+			mainGroup = DA8761882A00367E00F155DC;
+			productRefGroup = DA8761922A00367E00F155DC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DA6F3EA22A0005F100283A7C /* Wnated_project_iOS_clean_code */,
+				DA8761902A00367E00F155DC /* Wanted_Swift_Clean_Code */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DA6F3E9F2A0005F100283A7C /* Sources */ = {
+		DA87618D2A00367E00F155DC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA6F3EA72A0005F100283A7C /* main.swift in Sources */,
+				DA8761952A00367E00F155DC /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		DA6F3EA82A0005F100283A7C /* Debug */ = {
+		DA8761962A00367E00F155DC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -187,7 +187,7 @@
 			};
 			name = Debug;
 		};
-		DA6F3EA92A0005F100283A7C /* Release */ = {
+		DA8761972A00367E00F155DC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -240,7 +240,7 @@
 			};
 			name = Release;
 		};
-		DA6F3EAB2A0005F100283A7C /* Debug */ = {
+		DA8761992A00367E00F155DC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -251,7 +251,7 @@
 			};
 			name = Debug;
 		};
-		DA6F3EAC2A0005F100283A7C /* Release */ = {
+		DA87619A2A00367E00F155DC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -265,25 +265,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DA6F3E9E2A0005F100283A7C /* Build configuration list for PBXProject "Wnated_project_iOS_clean_code" */ = {
+		DA87618C2A00367E00F155DC /* Build configuration list for PBXProject "Wanted_Swift_Clean_Code" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DA6F3EA82A0005F100283A7C /* Debug */,
-				DA6F3EA92A0005F100283A7C /* Release */,
+				DA8761962A00367E00F155DC /* Debug */,
+				DA8761972A00367E00F155DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DA6F3EAA2A0005F100283A7C /* Build configuration list for PBXNativeTarget "Wnated_project_iOS_clean_code" */ = {
+		DA8761982A00367E00F155DC /* Build configuration list for PBXNativeTarget "Wanted_Swift_Clean_Code" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DA6F3EAB2A0005F100283A7C /* Debug */,
-				DA6F3EAC2A0005F100283A7C /* Release */,
+				DA8761992A00367E00F155DC /* Debug */,
+				DA87619A2A00367E00F155DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DA6F3E9B2A0005F100283A7C /* Project object */;
+	rootObject = DA8761892A00367E00F155DC /* Project object */;
 }
